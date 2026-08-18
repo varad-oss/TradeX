@@ -1,4 +1,4 @@
-# Real-Time Equity Trading Exchange
+# TradeX
 
 A highly-performant real-time equity trading exchange matching engine and visualizer built to handle high-throughput concurrent order matching.
 
